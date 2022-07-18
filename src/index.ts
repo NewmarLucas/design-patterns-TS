@@ -2,4 +2,5 @@
 // import './creational/prototype/prototype-deepcopy';
 // import './creational/factory-method';
 // import './creational/abstract-factory';
-import './structural/composite/validation-composite';
+// import './structural/composite/validation-composite';
+import './structural/adapter';
