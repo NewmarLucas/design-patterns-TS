@@ -3,4 +3,5 @@
 // import './creational/factory-method';
 // import './creational/abstract-factory';
 // import './structural/composite/validation-composite';
-import './structural/adapter';
+// import './structural/adapter';
+import './structural/bridge';
