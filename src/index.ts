@@ -5,4 +5,5 @@
 // import './structural/composite/validation-composite';
 // import './structural/adapter';
 // import './structural/bridge';
-import './structural/decorator';
+// import './structural/decorator';
+import './structural/facade';
