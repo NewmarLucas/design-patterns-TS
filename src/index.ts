@@ -6,4 +6,5 @@
 // import './structural/adapter';
 // import './structural/bridge';
 // import './structural/decorator';
-import './structural/facade';
+// import './structural/facade';
+import './structural/proxy';
