@@ -8,4 +8,5 @@
 // import './structural/decorator';
 // import './structural/facade';
 // import './structural/proxy';
-import './structural/flyweight';
+// import './structural/flyweight';
+import './behavioral/strategy';
