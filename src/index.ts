@@ -9,4 +9,5 @@
 // import './structural/facade';
 // import './structural/proxy';
 // import './structural/flyweight';
-import './behavioral/strategy';
+// import './behavioral/strategy';
+import './behavioral/command';
