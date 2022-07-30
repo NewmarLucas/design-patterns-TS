@@ -10,4 +10,5 @@
 // import './structural/proxy';
 // import './structural/flyweight';
 // import './behavioral/strategy';
-import './behavioral/command';
+// import './behavioral/command';
+import './behavioral/memento';
