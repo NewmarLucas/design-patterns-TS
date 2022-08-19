@@ -11,4 +11,5 @@
 // import './structural/flyweight';
 // import './behavioral/strategy';
 // import './behavioral/command';
-import './behavioral/memento';
+// import './behavioral/memento';
+import './behavioral/state';
