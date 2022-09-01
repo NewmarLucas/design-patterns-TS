@@ -16,3 +16,4 @@
 // import './behavioral/mediator';
 // import './behavioral/chain-of-responsability';
 // import './behavioral/template-method';
+import './behavioral/iterator';
