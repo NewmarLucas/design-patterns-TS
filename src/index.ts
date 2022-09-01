@@ -12,4 +12,5 @@
 // import './behavioral/strategy';
 // import './behavioral/command';
 // import './behavioral/memento';
-import './behavioral/state';
+// import './behavioral/state';
+import './behavioral/mediator';

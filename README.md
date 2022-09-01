@@ -6,4 +6,4 @@ O objetivo deste repositório não é de manter uma estrutura de pastas, mas apr
 
 ## Progresso atual
 
-![](https://us-central1-progress-markdown.cloudfunctions.net/progress/66)
+![](https://us-central1-progress-markdown.cloudfunctions.net/progress/70)
