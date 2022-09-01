@@ -14,4 +14,5 @@
 // import './behavioral/memento';
 // import './behavioral/state';
 // import './behavioral/mediator';
-import './behavioral/chain-of-responsability';
+// import './behavioral/chain-of-responsability';
+import './behavioral/template-method';
