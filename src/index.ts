@@ -15,4 +15,4 @@
 // import './behavioral/state';
 // import './behavioral/mediator';
 // import './behavioral/chain-of-responsability';
-import './behavioral/template-method';
+// import './behavioral/template-method';
